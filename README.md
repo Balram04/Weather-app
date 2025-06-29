@@ -12,11 +12,6 @@ A simple and responsive Weather App built using HTML, CSS, and JavaScript. It fe
 - Error handling for invalid city names
 - Lightweight and fast
 
-## 📸 Screenshot
-
-![Weather App Screenshot](https://i.imgur.com/your-screenshot-link.png)  
-*(Upload your screenshot to [imgur](https://imgur.com/) or GitHub and paste the image link)*
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Markup structure
